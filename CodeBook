@@ -1,6 +1,8 @@
 PURPOSE:
 
-The run_analysis.R process reads and summarises the test and training datasets of acceleration and angular velocity of 30 test subjects completing six activities collected from the accelerometers and gyroscopes of Samsung Galaxy S smartphones. Further details on the makeup of the underlying datasets is available at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+The run_analysis.R process reads and summarises the test and training datasets of acceleration and angular velocity of 30 test subjects 
+completing six activities collected from the accelerometers and gyroscopes of Samsung Galaxy S smartphones. Further details on the 
+makeup of the underlying datasets is available at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 PROCESS:
 
@@ -19,7 +21,9 @@ Factors:
 
 Summary measures:
 
-66 summary statistics showing either the mean of the means or mean of the standard deviations of observations at the intersection of each subject and activity.
+66 summary statistics showing either the mean of the means or mean of the standard deviations of observations at the intersection of 
+each subject and activity.
+
 Column headers in the form of [signal][filtered signal][vector][domain]_[statistic]_[property]
 
 •	signal – raw / jerk
