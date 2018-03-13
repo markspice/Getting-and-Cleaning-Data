@@ -16,7 +16,8 @@ CODE BOOK:
 Factors:
 
 •	subjectcode – Subject identification number [1:30]
-•	activity – activity type (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS) corresponding to the measurements
+•	activity – activity type (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS) corresponding to the 
+             measurements
 •	population – flag indicating whether the subject is in the test or train dataset
 
 Summary measures:
